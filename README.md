@@ -8,7 +8,7 @@ Hospital trusts need to monitor and optimise medication costs, utilisation, and 
 
 # Goal and Objectives
 Goal:
-To perform descriptive analysis of hospital trusts' prescribing data to improve cost efficiency and enhance prescribing practices.
+* To perform descriptive analysis of hospital trusts' prescribing data to improve cost efficiency and enhance prescribing practices.
 
 Objectives:
 * Identify trends in medication costs and quantity dispensed.
